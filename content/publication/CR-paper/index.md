@@ -89,9 +89,9 @@ slides: ""
 
 
 {{% callout note %}}
-click th  _Code_  button to get maple code link(in github).
+click the  _Code_  button to get maple code link(in github).
 {{% /callout %}}
 
 {{% callout note %}}
-click th  _Dataset_  button to get experiments in the paper(in github).
+click the  _Dataset_  button to get experiments in the paper(in github).
 {{% /callout %}}
