@@ -91,7 +91,7 @@ click the  _Code_  button to get maple scripts (in github).
 {{% /callout %}}
 
 {{% callout note %}}
-click the  _Dataset_  button to get experiments in the paper (in github).
+click the  _Dataset_  button to get experiments for the timings in the paper (in github).
 {{% /callout %}}
 
 {{% callout note %}}
